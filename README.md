@@ -33,15 +33,3 @@ Estudante técnico em **Desenvolvimento de Sistemas** e **Mecatrônica**, focado
 * **Automação e Mecatrônica:** Circuitos, comandos elétricos e automação industrial.
 * **Desenvolvimento:** Lógica de programação em Python, automação de cálculos técnicos e scripts para Linux.
 * **Projetos:** Criando ferramentas práticas para o dia a dia de estudos e laboratório.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
